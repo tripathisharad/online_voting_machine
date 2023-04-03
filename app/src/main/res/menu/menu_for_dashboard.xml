@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="@layout/navigation_header_file">
+
+
+<!--    <item-->
+<!--        android:icon="@drawable/ic_baseline_login_24"-->
+<!--        android:id="@+id/menu_login"-->
+<!--        android:iconTint="#FFDE03"-->
+<!--        android:title="Login" >-->
+
+<!--    </item>-->
+<!--    <item-->
+<!--        android:icon="@drawable/ic_baseline_app_registration_24"-->
+<!--        android:id="@+id/menu_register"-->
+<!--        android:iconTint="#FFDE03"-->
+<!--        android:title="Register" />-->
+
+
+
+</menu>

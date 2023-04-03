@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alice</item>
+        <item>@font/allerta</item>
+        <item>@font/andika</item>
+        <item>@font/arizonia</item>
+        <item>@font/cinzel_decorative</item>
+        <item>@font/eagle_lake</item>
+    </array>
+</resources>

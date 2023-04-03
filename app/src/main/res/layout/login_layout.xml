@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="wrap_content">
+
+
+
+   <ScrollView
+       android:layout_width="0dp"
+       android:scrollbars="vertical"
+       app:layout_constraintEnd_toEndOf="parent"
+       app:layout_constraintStart_toStartOf="parent"
+       app:layout_constraintTop_toTopOf="parent"
+       app:layout_constraintWidth_percent="0.96"
+       android:layout_height="wrap_content">
+
+       <LinearLayout
+           android:backgroundTint="@color/white"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_margin="20dp"
+           android:orientation="vertical"
+           >
+
+
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_margin="10dp"
+               android:background="@drawable/dashboard_linearlayout_roundshape"
+               android:gravity="center"
+               android:padding="10dp"
+               android:fontFamily="@font/allerta"
+               android:text="Welcome Back !"
+               android:textColor="#424242"
+               android:textSize="18sp"
+               android:textStyle="bold" />
+
+           <EditText
+               android:id="@+id/editTextTextEmailAddress2"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_margin="10dp"
+               android:background="@drawable/dashboard_linearlayout_roundshape"
+               android:drawableLeft="@drawable/ic_baseline_email_24"
+               android:drawablePadding="5dp"
+               android:ems="10"
+               android:textColor="#424242"
+               android:textColorHint="#9E9E9E"
+               android:hint="E-Mail"
+               android:inputType="textEmailAddress"
+               android:paddingStart="18dp"
+               android:paddingTop="10dp"
+               android:paddingEnd="18dp"
+               android:paddingBottom="10dp"
+               android:singleLine="true"
+               android:textSize="13sp" />
+
+           <EditText
+               android:id="@+id/editTextNumberPassword2"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_margin="10dp"
+               android:textColor="#424242"
+               android:textColorHint="#9E9E9E"
+               android:background="@drawable/dashboard_linearlayout_roundshape"
+               android:drawableLeft="@drawable/ic_baseline_lock_24"
+               android:drawablePadding="5dp"
+               android:ems="10"
+               android:longClickable="false"
+               android:drawableRight="@drawable/ic_baseline_visibility_off_24"
+               android:hint="Password"
+               android:inputType="numberPassword"
+               android:paddingStart="18dp"
+               android:paddingTop="10dp"
+               android:paddingEnd="18dp"
+               android:paddingBottom="10dp"
+               android:singleLine="true"
+               android:textSize="13sp" />
+
+           <androidx.appcompat.widget.AppCompatButton
+               android:id="@+id/button2"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_margin="10dp"
+               android:background="@drawable/register_round_button"
+               android:backgroundTint="#FF0266"
+               android:padding="10dp"
+               android:fontFamily="@font/allerta"
+               android:text="Login"
+               android:textColor="@color/white" />
+
+
+           <TextView
+               android:id="@+id/forgot_password"
+               android:layout_gravity="start"
+               android:layout_width="wrap_content"
+               android:text="Forgot Password ? "
+               android:textStyle="bold"
+               android:textSize="15sp"
+               android:fontFamily="@font/allerta"
+               android:textColor="#424242"
+               android:layout_marginStart="4dp"
+               android:padding="10dp"
+               android:paddingStart="16dp"
+               android:layout_height="wrap_content"/>
+       </LinearLayout>
+
+   </ScrollView>
+
+    <ProgressBar
+        android:id="@+id/progressBar2"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

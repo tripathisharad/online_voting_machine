@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/VotingMachine20/app/src/main/res/drawable/app_icon_icon_background.xml" value="0.1475" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/drawable/dashboard_linearlayout_roundshape.xml" value="0.152" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/drawable/dashboard_text_round_shape.xml" value="0.152" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/drawable/dashboard_text_shape.xml" value="0.204" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/drawable/dashborad_back_radi.xml" value="0.152" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/drawable/forgot_pass_btn.xml" value="0.1475" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/drawable/ic_baseline_app_registration_24.xml" value="0.204" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.1475" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.1475" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/drawable/ic_baseline_help_24.xml" value="0.1475" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/drawable/ic_baseline_local_phone_24.xml" value="0.184" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.1475" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/drawable/ic_baseline_login_24.xml" value="0.204" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/drawable/ic_baseline_logout_24.xml" value="0.184" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.204" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.204" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/drawable/ic_baseline_phone_android_24.xml" value="0.204" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/drawable/ic_baseline_remove_red_eye_24.xml" value="0.1475" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/drawable/ic_baseline_remove_red_eye_pink.xml" value="0.1475" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.1475" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/drawable/ic_baseline_visibility_off_24.xml" value="0.1475" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/drawable/ic_baseline_wb_sunny_24.xml" value="0.1475" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1475" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/drawable/navigation_header_round.xml" value="0.176" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/drawable/otp_btn_back.xml" value="0.184" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/drawable/panel_square_shape.xml" value="0.184" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/drawable/register_round_button.xml" value="0.136" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/drawable/round_toolbar.xml" value="0.204" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/drawable/symbol_four_clock.xml" value="0.184" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/drawable/symbol_three_cycle.xml" value="0.184" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/drawable/symbol_two_book.xml" value="0.184" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/drawable/touch_black_back.xml" value="0.187" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/drawable/voting_button_background_two.xml" value="0.152" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/drawable/voting_button_backgroung.xml" value="0.1475" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/layout/activity_dash_board.xml" value="0.25416666666666665" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/layout/activity_help_section.xml" value="0.25416666666666665" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/layout/activity_login_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/layout/activity_panel_info_for_voting.xml" value="0.25416666666666665" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/layout/activity_panel_information.xml" value="0.25416666666666665" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/layout/activity_participant.xml" value="0.25416666666666665" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/layout/activity_publish.xml" value="0.25416666666666665" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/layout/activity_raise_ticket.xml" value="0.25416666666666665" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/layout/activity_result_declaration.xml" value="0.25416666666666665" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/layout/activity_results.xml" value="0.25416666666666665" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/layout/activity_voter_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/layout/activity_voting_booth.xml" value="0.25416666666666665" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/layout/dashboard_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/layout/forgot_button_pass.xml" value="0.25416666666666665" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/layout/forgot_pass_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/layout/fragment_login_register.xml" value="0.24010416666666667" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/layout/login_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/layout/navigation_header_file.xml" value="0.25416666666666665" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/layout/panel_info_adap_xml.xml" value="0.264" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/layout/panel_info_for_voting_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/layout/pannel_name_adder_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/layout/participant_addition.xml" value="0.25416666666666665" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/layout/participant_n_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/layout/participant_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/layout/reigter_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/layout/result_declaration_recycler_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/layout/result_showing_xml.xml" value="0.25416666666666665" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/layout/switch_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/layout/voter_list_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/layout/voter_list_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/layout/voterlist.xml" value="0.25416666666666665" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/layout/voterlist_text.xml" value="0.25416666666666665" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/layout/voting_booth_new_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/menu/menu_for_dashboard.xml" value="0.25416666666666665" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/menu/menu_voter_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.204" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/mipmap-anydpi-v26/person_icon.xml" value="0.204" />
+        <entry key="..\:/VotingMachine20/app/src/main/res/mipmap-anydpi-v26/person_icon_round.xml" value="0.204" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

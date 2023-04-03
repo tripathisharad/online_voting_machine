@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="match_parent"
+    tools:context=".LoginRegisterActivity">
+
+
+    <com.airbnb.lottie.LottieAnimationView
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/toolbar_login_register"
+        android:layout_width="0dp"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        app:lottie_rawRes="@raw/login_riges_anim"
+        android:layout_height="0dp"/>
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar_login_register"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:backgroundTint="@color/white"
+        app:layout_constraintTop_toBottomOf="@id/guideline2"
+        android:background="?attr/colorPrimary"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="318dp" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.3" />
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tab_layout"
+        android:background="@color/white"
+        app:tabIconTint="#424242"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintWidth_percent="0.6"
+        app:tabMode="fixed"
+        app:tabGravity="fill"
+        app:tabTextColor="#424242"
+        app:layout_constraintTop_toBottomOf="@id/guideline2"
+        tools:layout_editor_absoluteX="2dp"
+        tools:layout_editor_absoluteY="293dp">
+
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/tab_layout_login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:icon="@drawable/ic_baseline_login_24"
+            android:text="Login" />
+
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/tab_layout_register"
+            android:icon="@drawable/ic_baseline_app_registration_24"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Register" />
+
+    </com.google.android.material.tabs.TabLayout>
+
+    <androidx.viewpager2.widget.ViewPager2
+        android:background="@color/white"
+        android:id="@+id/view_pager"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tab_layout"
+        app:layout_constraintBottom_toBottomOf="parent"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="342dp" />
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
